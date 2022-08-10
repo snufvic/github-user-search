@@ -1,0 +1,5 @@
+@local=https://api.github.com
+
+### get users
+GET {{local}}/users/snufvic
+Authorization: `token ${process.env.REACT_APP_GITHUB_TOKEN}`,

@@ -1,3 +1,9 @@
+.env file was excluded in .gitignore since it contains my personal Github API key in REACT_APP_GITHUB_TOKEN.
+It also contains the the base URL for Github API - REACT_APP_GITHUB_URL="https://api.github.com"
+
+In this project you can search for Github users and watch basic information with links to some of their Repos. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
